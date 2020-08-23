@@ -23,7 +23,8 @@ JVM上で動作するDBマイグレーションツール。
 
 命名ルールがある↓
 
-    V<バージョン>__<任意の名前>.sql
+   ![Uploading スクリーンショット 2020-08-24 8.21.16.png…]()
+
     
 
 
@@ -37,3 +38,6 @@ https://densan-labs.net/tech/codefirst/migration.html
 https://qiita.com/rubytomato@github/items/d1746585451ff0ba917c
 * FlyWay Documentation
 https://flywaydb.org/documentation/
+
+* データベースマイグレーション + Spring
+https://qiita.com/shinyay/items/95934e221d7372aca394
